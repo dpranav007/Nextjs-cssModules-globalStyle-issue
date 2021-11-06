@@ -1,4 +1,4 @@
-###Description of the issue
+###steps to create the issue
 
 1. Create a basic nextjs project using create-next-app
 2. Remove the content on index page. Removed the styles associate to the index page via css modules.
